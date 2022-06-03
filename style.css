@@ -2,3 +2,12 @@
     justify-content: center;
     margin-right: 8%;
 }
+
+
+.product-t p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+    font-size: 2rem;
+}
